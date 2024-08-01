@@ -33,7 +33,7 @@ Follow these steps to set up and run Jammming on your local machine:
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/yourusername/jammming.git
+    git clone https://github.com/alvaro347/jammming.git
     cd jammming
     ```
 
